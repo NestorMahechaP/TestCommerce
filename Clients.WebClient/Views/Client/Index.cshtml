@@ -1,0 +1,44 @@
+﻿@using Clients.WebClient.Models.Customer;
+
+@model List<ClientDto>
+@{
+    ViewData["Title"] = "Client Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Client</h1>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        List
+    </div>
+    <div class="card-body">
+        <a asp-action="Client" asp-controller="Client" asp-route-id="0" class="btn btn-success btn-sm">New Client</a>
+        <hr />
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Lastname</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>
+                            <a asp-action="Client" asp-controller="Client" asp-route-id="@item.ClientId" class="btn btn-primary btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-controller="Client" asp-route-id="@item.ClientId" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

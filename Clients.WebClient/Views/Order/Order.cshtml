@@ -1,0 +1,28 @@
+﻿@using Clients.WebClient.Models.Order;
+
+@model ClientOrderDto
+@{
+    ViewData["Title"] = "Order";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        @ViewBag.Name
+    </div>
+    <div class="card-body">
+        <form asp-action="Save" asp-controller="Order" method="post">
+            <input asp-for="OrderId" type="hidden" />
+            <div class="mb-2">
+                <label class="form-label">CustomerId</label>
+                <input type="number" class="form-control form-control-sm" asp-for="CustomerId" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">ProductIds</label>
+                <input type="text" class="form-control form-control-sm" asp-for="ProductIds" />
+            </div>
+            <button type="submit" class="btn btn-success btn-sm">Save</button>
+            <a asp-action="Index" asp-controller="Order" class="btn btn-warning btn-sm">Return</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Service.Queries.deps.json
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Domain.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Domain.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\bin\Debug\net6.0\Customer.Persistence.Database.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\refint\Customer.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\Customer.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Customer\Customer.Service.Queries\obj\Debug\net6.0\ref\Customer.Service.Queries.dll

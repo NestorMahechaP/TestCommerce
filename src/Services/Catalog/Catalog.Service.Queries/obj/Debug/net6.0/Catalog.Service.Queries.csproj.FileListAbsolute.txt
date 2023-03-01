@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Service.Queries.deps.json
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Domain.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Persistence.Database.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\bin\Debug\net6.0\Catalog.Domain.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\refint\Catalog.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\Catalog.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Catalog\Catalog.Service.Queries\obj\Debug\net6.0\ref\Catalog.Service.Queries.dll

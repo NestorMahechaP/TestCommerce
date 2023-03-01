@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Persistence.Database.deps.json
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Persistence.Database.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Domain.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Domain.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\refint\Order.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\ref\Order.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\bin\Debug\net6.0\Order.Persistence.Database.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Persistence.Database\obj\Debug\net6.0\Order.Persistence.Database.genruntimeconfig.cache

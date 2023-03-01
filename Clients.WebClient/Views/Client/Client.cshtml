@@ -1,0 +1,28 @@
+﻿@using Clients.WebClient.Models.Customer;
+
+@model ClientDto
+@{
+    ViewData["Title"] = "Client";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        @ViewBag.Name
+    </div>
+    <div class="card-body">
+        <form asp-action="Save" asp-controller="Client" method="post">
+            <input asp-for="ClientId" type="hidden" />
+            <div class="mb-2">
+                <label class="form-label">FirstName</label>
+                <input type="text" class="form-control form-control-sm" asp-for="FirstName" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">LastName</label>
+                <input type="text" class="form-control form-control-sm" asp-for="LastName" />
+            </div>
+            <button type="submit" class="btn btn-success btn-sm">Save</button>
+            <a asp-action="Index" asp-controller="Client" class="btn btn-warning btn-sm">Return</a>
+        </form>
+    </div>
+</div>

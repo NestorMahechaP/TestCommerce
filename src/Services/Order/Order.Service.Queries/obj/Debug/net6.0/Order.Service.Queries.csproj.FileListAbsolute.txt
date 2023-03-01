@@ -1,0 +1,17 @@
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Service.Queries.deps.json
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Domain.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Persistence.Database.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Persistence.Database.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\bin\Debug\net6.0\Order.Domain.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\refint\Order.Service.Queries.dll
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\Order.Service.Queries.pdb
+C:\Users\usuario\Documents\GitHub\SOA\TestCommerce\src\Services\Order\Order.Service.Queries\obj\Debug\net6.0\ref\Order.Service.Queries.dll
